@@ -6,6 +6,7 @@
 [![npm version](https://img.shields.io/npm/v/feather-icons.svg?style=flat-square)](https://www.npmjs.com/package/feather-icons)
 [![CDNJS version](https://img.shields.io/cdnjs/v/feather-icons.svg?style=flat-square)](https://cdnjs.com/libraries/feather-icons)
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://www.paypal.me/colebemis/5)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftoir427%2Ffeather.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftoir427%2Ffeather?ref=badge_shield)
 
 ## What is Feather?
 
@@ -403,3 +404,6 @@ Caught a mistake or want to contribute to the documentation? [Edit this page on 
 ## License
 
 Feather is licensed under the [MIT License](https://github.com/colebemis/feather/blob/master/LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftoir427%2Ffeather.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftoir427%2Ffeather?ref=badge_large)
